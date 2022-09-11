@@ -1,4 +1,5 @@
 # portfolio-novo
+Commit inicial portfolio em uma nova versão feito em vuejs
 
 ## Project setup
 ```
